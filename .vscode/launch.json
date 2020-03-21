@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Reservation",
+            "request": "launch",
+            "mainClass": "Reservation",
+            "projectName": "Java-test_f32aaa16"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Store",
             "request": "launch",
             "mainClass": "Store",
